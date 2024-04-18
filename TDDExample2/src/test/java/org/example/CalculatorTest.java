@@ -1,3 +1,10 @@
+//  Name           ; muhammed elselemi
+//  student number ; B201202555
+//  course name    ; software validation and verification
+//  homework info  ; homework number 1
+//  reopsitory link; https://github.com/MUHAMMED-ELSELEMI/clculator-test
+
+
 package org.example;
 
 import org.junit.jupiter.api.Test;
@@ -28,9 +35,3 @@ class CalculatorTest {
     }
 }
 
-
-//  Name           ; muhammed elselemi
-//  student number ; B201202555
-//  course name    ; software validation and verification
-//  homework info  ; homework number 1
-//
